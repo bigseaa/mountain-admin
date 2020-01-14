@@ -27,7 +27,7 @@
     <properties>
         <fastjson.version>1.2.47</fastjson.version>
         <lombok.version>1.18.8</lombok.version>
-        <oauth2.version>2.1.1.RELEASE</oauth2.version>
+        <oauth2.version>2.1.5.RELEASE</oauth2.version>
         <lang3.version>3.5</lang3.version>
         <security.jwt.version>1.0.8.RELEASE</security.jwt.version>
     </properties>

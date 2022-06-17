@@ -25,7 +25,7 @@
     </parent>
 
     <properties>
-        <fastjson.version>1.2.47</fastjson.version>
+        <fastjson.version>1.2.83</fastjson.version>
         <lombok.version>1.18.8</lombok.version>
         <oauth2.version>2.1.1.RELEASE</oauth2.version>
         <lang3.version>3.5</lang3.version>
